@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Tahoma', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+    font-family: 'Georgia', serif;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+nav {
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: .25rem;
+    background-color: mediumpurple;
+}
+
+.nav-link {
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+#landing {
+    text-align: center;
+}
+
+#profile {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    border: 2px solid mediumpurple;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#name {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+
+#title {
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+}
+
+#intro {
+    width: 400px;
+    margin: auto;
+}
+
+#tools {
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+#tools-title {
+    margin-bottom: 3rem;
+}
+
+.tools-img {
+    height: 100px;
+    width: 100px;
+    border-radius: 150px;
+    border: 2px solid mediumpurple;
+    margin-left:20px;
+    margin-right: 20px;
+}
+
